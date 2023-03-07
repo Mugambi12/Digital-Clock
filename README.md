@@ -1,5 +1,5 @@
 <div align="center">
-  
+
   ![GitHub repo size](https://img.shields.io/github/repo-size/mugambi12/Digital-Clock)
   ![GitHub stars](https://img.shields.io/github/stars/mugambi12/Digital-Clock?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/mugambi12/Digital-Clock?style=social)
@@ -19,7 +19,7 @@
 
 ### Demo Screeshots
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Music Player Desktop Demo](./assets/Demo.PNG "Desktop Demo")
 
 ### Prerequisites
 
@@ -29,23 +29,23 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Music Player** locally, run this command on your git bash:
+To run **Digital Clock ** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/music-player.git
+sudo git clone https://github.com/Mugambi12/Digital-Clock.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/music-player.git
+git clone https://github.com/Mugambi12/Digital-Clock.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+You can reach out to me at [Twitter](https://www.twitter.com/mugambimungiria).
 
 ### License
 
